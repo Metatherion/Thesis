@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B10505</color>
+    <color name="colorPrimaryDark">#550101</color>
+    <color name="colorAccent">#000000</color>
+    <color name="healthy">#4CFF00</color>
+    <color name="SlightlyStressed">#D2FF57</color>
+    <color name="Stressed">#FFD500</color>
+    <color name="HighStress">#FFAA4F</color>
+    <color name="Unhealthy">#FF0000</color>
+</resources>
